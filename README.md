@@ -1,1 +1,1 @@
-# cw-contract-account
+# sovereign-contract-account
